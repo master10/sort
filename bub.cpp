@@ -1,7 +1,9 @@
+// Program for bubble sort
+
 #include<iostream>
 
 using namespace std;
-
+//bubble sort function
 int bub(int * arr,int n)
 {
         bool flag=true;
@@ -27,6 +29,8 @@ int bub(int * arr,int n)
         }*/
         return 0;       
 }
+
+
 
 int main()
 {
